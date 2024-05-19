@@ -1,0 +1,13 @@
+.home__bg {
+    background-image: url(https://img.freepik.com/free-photo/full-shot-friends-reading-messages_23-2150104825.jpg?t=st=1715881857~exp=1715885457~hmac=fa3759c788535f8c3b74f68acac79198f8cd72b1f6dde2386470ff92db65db6d&w=996);
+    height: 92vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+
+.home-message-icon {
+    margin-left: 10px;
+    display: inline-block;
+}

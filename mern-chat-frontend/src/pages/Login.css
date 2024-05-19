@@ -1,0 +1,8 @@
+.login__bg {
+    background-image: url(https://img.freepik.com/free-photo/comic-sound-effect-speech-bubble-pink-background_23-2147910063.jpg?t=st=1715881795~exp=1715885395~hmac=adc8fe76fe562d2230445f541fd48cf2d4aa5e71b66b0ace409555ee6bbcb692&w=740);
+    height: 92vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
